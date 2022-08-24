@@ -2,3 +2,5 @@ venv-slbot/
 *.env
 *.spec
 build/
+__pycache__
+files/
